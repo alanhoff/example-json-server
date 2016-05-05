@@ -1,0 +1,51 @@
+{
+  "people": [
+    {
+      "id": 1,
+      "name": "Julian",
+      "lastname": "Auborg",
+      "about": "A collection of textile samples lay spread out on the table - Samsa was a travelling salesman - and above it there hung a picture that he had recently cut out of an illustrated magazine and housed in a nice, gilded frame. It showed a lady fitted out with a fur hat and fur boa who sat upright, raising a heavy fur muff that covered the whole of her lower arm towards the viewer.",
+      "vote": 2
+    },
+
+    {
+      "id": 2,
+      "name": "Peter",
+      "lastname": "Higgins",
+      "about": "One morning, when Gregor Samsa woke from troubled dreams, he found himself transformed in his bed into a horrible vermin. He lay on his armour-like back, and if he lifted his head a little he could see his brown belly, slightly domed and divided by arches into stiff sections. The bedding was hardly able to cover it and seemed ready to slide off any moment.",
+      "vote": 100
+    },
+
+    {
+      "id": 3,
+      "name": "Ben",
+      "lastname": "Lowery",
+      "about": "Li Europan lingues es membres del sam familie. Lor separat existentie es un myth. Por scientie, musica, sport etc, litot Europa usa li sam vocabular.",
+      "vote": 43
+    },
+
+    {
+      "id": 4,
+      "name": "John",
+      "lastname": "Resig",
+      "about": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.",
+      "vote": 1
+    },
+
+    {
+      "id": 5,
+      "name": "Alex",
+      "lastname": "Russell",
+      "about": "The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn’t listen. She packed her seven versalia, put her initial into the belt and made herself on the way.",
+      "vote": 23
+    },
+
+    {
+      "id": 6,
+      "name": "Adam",
+      "lastname": "Sontag",
+      "about": "When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then",
+      "vote": 54
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>People</title>
+</head>
+<body>
+  <ul id="people"></ul>
+  <script src="//code.jquery.com/jquery-2.2.3.min.js"></script>
+  <script>
+    $.ajax('/people.json')
+    .done(function (data) {
+      var list = document.getElementById('people')
+
+      data.people.forEach(function (person) {
+        var el = document.createElement('li')
+        el.innerHTML = person.name + ' ' + person.lastname
+
+        list.appendChild(el)
+      })
+    })
+  </script>
+</body>
+</html>
